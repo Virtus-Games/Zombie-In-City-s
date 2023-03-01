@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 980b2c5abe352e84285acf64282e8b22, type: 3}
+  m_Name: Kalkan
+  m_EditorClassIdentifier: 
+  upgradeName: Shield
+  icon: {fileID: 21300000, guid: 6606226f1cf400445bb7da84e92cef2c, type: 3}
+  upgradedItem: 0
+  floatTpye: 50
+  boolenType: 0
